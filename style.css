@@ -1,0 +1,239 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    user-select: none;
+}
+
+.home {
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.541), rgba(0, 0, 0, 0.527)), url(./images/blaze.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px;
+}
+
+.title {
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    text-align: center;
+}
+
+.boss {
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    margin-top: 30vh;
+    text-transform: uppercase;
+}
+
+.buton {
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: 22vh;
+}
+
+.dinner {
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    padding: 15px 27px;
+    background-color: #fff;
+}
+
+.about {
+    padding: 70px;
+    display: flex;
+    background-color: rgb(236, 236, 236);
+}
+
+.col1 {
+    margin: 10px;
+    display: flex;
+}
+
+.prova1 {
+    margin: 5px;
+    margin-bottom: 50px;
+}
+
+.prova2 {
+    margin: 5px;
+    margin-top: 50px;
+}
+
+.image-one {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.image-two {
+    margin-top: 30px;
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.text {
+    margin-left: 80px;
+}
+
+.name {
+    text-transform: uppercase;
+    margin-top: 40px;
+}
+
+.dumy {
+    width: 72vh;
+    margin-top: 12vh;
+}
+
+.jes {
+    margin-top: 13vh;
+}
+
+.but {
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    padding: 17px 25px;
+}
+
+.middle {
+    padding: 100px;
+    display: flex;
+    background-color: rgb(236, 236, 236);
+}
+
+.description {
+    width: 50vh;
+    margin: 20px;
+}
+
+.img1 {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+    margin: 20px;
+}
+
+.image1 {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.img2 {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+    margin: 20px;
+}
+
+.image2 {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.img3 {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+    margin: 20px;
+}
+
+.image3 {
+    width: 250px;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.desc {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 60vh;
+}
+
+.cartoon {
+    padding: 100px;
+    background-color: #000;
+}
+
+.staff {
+    font-size: 25px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.staff-desc {
+    display: flex;
+    color: #fff;
+    margin-top: 20vh;
+    justify-content: space-around;
+}
+
+.motivation {
+    width: 40vh;
+    margin-left: 40px;
+}
+
+.for {
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+.name2 {
+    font-size: 13px;
+    margin-top: 30px;
+    text-align: end;
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+.end {
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    justify-content: space-between;
+}
+
+.beatrixputana {
+    width: 90%;
+    height: 37rem;
+    object-fit: cover;
+}
+
+.endcol2 {
+    text-align: left;
+    width: 70%;
+}
+
+.jesbejbi {
+    margin-top: 20vh;
+    margin-left: 100px;
+    letter-spacing: 2px;
+}
+
+.contact {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.names {
+    padding: 20px;
+}
+
+.copyright {
+    font-size: 15px;
+    color: rgb(80, 80, 80);
+    margin-top: 100px;
+    margin-left: 100px;
+}
